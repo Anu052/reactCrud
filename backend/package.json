@@ -8,7 +8,7 @@
   "build": "npm start",
   
   },
-  "author": "anurag tiwari",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
