@@ -15,7 +15,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "both": "concurrently \"npm run start\" \"nodemon backend/index.js\""
+    "build":"npm run build",
+    "start":"npm start"
   },
   "eslintConfig": {
     "extends": [
